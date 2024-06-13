@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+table,tr,td{
+    border: 2px solid black;
+    padding: 2px;
+}
+#StudentFormContainer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#saveButton{
+    width: 100%;
+    background-color: aquamarine;
+}
+#details{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+#detailsTable,tr,th{
+    border: 2px solid black;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
